@@ -1,5 +1,5 @@
 import ArrowRightIcon from "../Icons/ArrowRightIcon";
-// import heroImg from "../assets/hero_img.png";
+
 const heroImg = undefined
 function Hero() {
   return (
@@ -56,7 +56,7 @@ function Hero() {
                     <span className="inline-block h-[16px] w-[16px] rounded-[4px] border border-[#DAA520]" />
                     <span className="inline-block h-[16px] w-[16px] rounded-[4px] border border-[#DAA520]" />
                   </div>
-                  {/* <span className="opacity-80">Patient rated care</span> */}
+                 
                 </div>
               </div>
             </div>

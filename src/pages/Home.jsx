@@ -17,7 +17,6 @@ function Home() {
       <main>
         <Hero /> 
         <Founder />
-        {/* <SectionTitle /> */}
         <Treatments />
         <QuoteSection />
         <ServicesSection />

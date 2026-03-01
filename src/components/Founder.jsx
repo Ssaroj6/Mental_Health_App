@@ -36,24 +36,7 @@ function Founder() {
           </button>
         </div>
       </div>
-      <div className="absolute bottom-0 left-0 w-full overflow-hidden leading-[0]">
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 1440 120"
-    className="w-full h-[80px]"
-    preserveAspectRatio="none"
-  >
-    <path
-      fill="#f7eed9"  // background color of the next section (Treatment)
-      d="M0,40 
-         C120,60 240,20 360,40 
-         C480,60 600,20 720,40 
-         C840,60 960,20 1080,40 
-         C1200,60 1320,20 1440,40 
-         L1440,120 L0,120 Z"
-    ></path>
-  </svg>
-</div>
+      
 
     </section> 
   
